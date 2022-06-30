@@ -1,0 +1,2 @@
+python reatrear_precios_amazon.py 
+pause

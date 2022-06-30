@@ -1,0 +1,2 @@
+Debe instalar:
+pip install beautifulsoup4
